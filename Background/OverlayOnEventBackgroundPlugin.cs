@@ -17,7 +17,7 @@ using Size = System.Drawing.Size;
 using SolidColorBrush = System.Windows.Media.SolidColorBrush;
 using Typeface = System.Windows.Media.Typeface;
 
-namespace OverlayOnEvent.Background
+namespace MSC505414_SCOverlayOnEventModded.Background
 {
     /// <summary>
     /// </summary>

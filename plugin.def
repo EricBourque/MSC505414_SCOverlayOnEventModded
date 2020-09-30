@@ -1,4 +1,4 @@
 <plugin>
-   <file name="SCOverlayOnEvent.dll"/>
+   <file name="MSC505414_SCOverlayOnEventModded.dll"/>
    <load env="SmartClient"/>
 </plugin>

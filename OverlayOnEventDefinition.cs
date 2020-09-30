@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Drawing;
 using System.Reflection;
 using System.Windows.Forms;
-using OverlayOnEvent.Background;
+using MSC505414_SCOverlayOnEventModded.Background;
 using VideoOS.Platform;
 using VideoOS.Platform.Admin;
 using VideoOS.Platform.Background;
 using VideoOS.Platform.Client;
 
-namespace OverlayOnEvent
+namespace MSC505414_SCOverlayOnEventModded
 {
     /// <summary>
     /// </summary>

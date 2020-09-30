@@ -8,8 +8,8 @@
     <ProjectGuid>{751E9D67-AC94-4659-83F7-21778C83DA23}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SCOverlayOnEvent</RootNamespace>
-    <AssemblyName>SCOverlayOnEvent</AssemblyName>
+    <RootNamespace>MSC505414_SCOverlayOnEventModded</RootNamespace>
+    <AssemblyName>MSC505414_SCOverlayOnEventModded</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <FileUpgradeFlags>
